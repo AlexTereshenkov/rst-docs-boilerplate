@@ -10,3 +10,4 @@ $ make clean; make html
 ```
 
 You can now browse the docs at `build/html/index.html`.
+See an example of these docs hosted at [Read the Docs page](https://rst-docs-boilerplate.readthedocs.io/en/latest/).
